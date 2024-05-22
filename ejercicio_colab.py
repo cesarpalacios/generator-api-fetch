@@ -8,7 +8,6 @@
 #https://colab.research.google.com/
 
 
-
 def calculo_descuento(tabla, cantidad_productos):
   suma_compra = 0
   for i in range(0, cantidad_productos):
