@@ -6,6 +6,7 @@
 # Finalmente, se debe mostrar el total de la compra con o sin  descuento
 
 #https://colab.research.google.com/
+#https://www.freecodecamp.org/espanol/learn/
 
 
 def calculo_descuento(tabla, cantidad_productos):
